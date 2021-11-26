@@ -31,11 +31,11 @@
 #define KEY_TYPE        OK
 #define KEY_YES         L'y'
 #define KEY_NO          L'n'
-#define KEY_OPEN_F      L'o'
+#define KEY_OPEN_F      L'e'
 #define KEY_RELOAD_F    L'r'
 #define KEY_SAVE_F      L's'
 #define KEY_SAVEAS_F    L'S'
-#define KEY_INSERT_E    L'i'
+#define KEY_INSERT_E    L'o'
 #define KEY_EDIT_E      L'\n'
 #define KEY_QUIT        L'Q'
 #define KEY_CROSS_E     L'd'
@@ -53,7 +53,7 @@
 #define KEY_NEXT_V      L'n'
 #define KEY_PREV_V      L'm'
 #define KEY_COLLAPSE    L'c'
-#define KEY_EXPAND      L'e'
+#define KEY_EXPAND      L'z'
 #define KEY_TOP         L'g'
 #define KEY_BOTTOM      L'G'
 
